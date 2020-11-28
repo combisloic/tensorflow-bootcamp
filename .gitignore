@@ -1,0 +1,17 @@
+# datasets
+resources/
+
+# notebook checkpoints
+.ipynb_checkpoints/
+
+# OS X
+.DS_Store
+
+# Models
+*.h5
+
+# Jobs
+*.pkl
+
+# conda env
+env/
